@@ -7,4 +7,7 @@ Dataset - http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
 2.Implement Naive Bayes on your own from scratch for text classification. 
 
 
+3.Compare Results of your implementation of Naive Bayes with one in Sklearn.
+
+
 score-100
